@@ -6,6 +6,7 @@
 !*.ipynb
 !*.sh
 !assets/
+
 # Ignore specific directories
 datasets/
 .python-version
