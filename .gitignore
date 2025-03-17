@@ -1,0 +1,18 @@
+# Allow specific file types
+!*.py
+!*.yml
+!*.png
+!*.txt
+!*.ipynb
+!*.sh
+!assets/
+# Ignore specific directories
+datasets/
+.python-version
+__pycache__/
+.venv/
+data/
+docs/
+
+# Ignore specific file types
+*.pptx
